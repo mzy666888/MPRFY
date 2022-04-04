@@ -10,7 +10,8 @@ https://github.com/dotnet/maui
 
 ### 1、MaterialDesignInXamlToolkit
 https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
-
+### 2、Prism
+https://github.com/PrismLibrary/Prism
 ## Plot
 
 #### 1、Oxyplot
