@@ -17,6 +17,13 @@ https://github.com/PrismLibrary/Prism
 #### 1、Oxyplot
 https://github.com/oxyplot/oxyplot
 
+## ORM
+#### 1、efcore
+https://github.com/dotnet/efcore
+
+#### 2、EFCore.BulkExtensions
+https://github.com/borisdj/EFCore.BulkExtensions
+
 
 ## Visual Studio Extension
 #### 1、viasfora
