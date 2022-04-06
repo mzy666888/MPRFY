@@ -12,6 +12,9 @@ https://github.com/dotnet/maui
 https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit
 ### 2、Prism
 https://github.com/PrismLibrary/Prism
+
+#### 3、WpfBindingErrors
+https://github.com/bblanchon/WpfBindingErrors
 ## Plot
 
 #### 1、Oxyplot
