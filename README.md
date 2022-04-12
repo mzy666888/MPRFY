@@ -2,6 +2,10 @@
 Must Public Repository For You
 
 # DOTNET 
+## .net
+#### 1、iTextSharp.LGPLv2.Core
+https://github.com/VahidN/iTextSharp.LGPLv2.Core
+
 ## Multi-platform App UI
 ### 1、maui
 https://github.com/dotnet/maui
